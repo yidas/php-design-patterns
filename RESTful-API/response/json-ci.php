@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * @author      Nick Tsai <myintaer@gmail.com>
+ * @version     1.0.0
+ * @filesource  Codeigniter 3
+ * @see         https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+ */
 class Controller extends CI_Controller {
 
     public function get($resourceID)
