@@ -4,7 +4,7 @@ ATTENDANCE
 THEORIES
 --------
 
-- [Interval Chain](#interval-chain)
+- [Interval Chain](./interval-chain)
 
 ---
 
