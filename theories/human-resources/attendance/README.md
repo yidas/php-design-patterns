@@ -6,7 +6,7 @@ THEORIES
 
 - [Interval Chain](./interval-chain)
 
-- [Interval Extension](./interval-chain)
+- [Interval Extension](./interval-extension)
 
 ---
 
