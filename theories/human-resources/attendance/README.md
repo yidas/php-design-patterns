@@ -6,6 +6,8 @@ THEORIES
 
 - [Interval Chain](./interval-chain)
 
+- [Interval Extension](./interval-chain)
+
 ---
 
 STRUCTURES
