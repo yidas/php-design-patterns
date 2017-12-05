@@ -79,5 +79,10 @@ class Resource extends CI_Controller {
     {
         
     }
+    
+    private function _deleteAll()
+    {
+        
+    }
 }
 
