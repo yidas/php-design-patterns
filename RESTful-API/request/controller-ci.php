@@ -26,33 +26,29 @@ class Resource extends CI_Controller {
         switch ($method) {
             case 'POST':
                 if (!$resourceID) {
-
                     $this->_store($requestData);
                 }
                 break;
 
             case 'PUT':
                 if ($resourceID) {
-
                     $this->_update($requestData, $resourceID);
                 }
                 break;
 
             case 'DELETE':
                 if ($resourceID) {
-
                     $this->_delete($resourceID);
+                } else {
+                    $this->_deleteAll();
                 }
                 break;
 
             case 'GET':
             default:
                 if ($resourceID) {
-
                     $this->_show($resourceID);
-
                 } else {
-
                     $this->_list($requestData);
                 }
                 break;
