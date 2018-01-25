@@ -13,8 +13,7 @@ $foo = $bar ? $bar : $baz;
 ### Null Coalesce Operator:
 
 ```php
-$foo = $bar ?: $baz;
-$foo = $bar ? $bar : $baz;
+$foo = $bar ?: $baz; //Equal to $foo = $bar ? $bar : $baz;
 ```
 
 > `?:` is similar to PHP 7 `??`
