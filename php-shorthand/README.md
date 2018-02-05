@@ -1,8 +1,8 @@
 PHP Shorthand Overview
 ======================
 
-Assignment Operators
---------------------
+Assignment Operators (Ternary Operator)
+---------------------------------------
 
 ```php
 $foo = ($bar) ? true : false;
