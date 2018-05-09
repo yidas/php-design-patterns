@@ -20,6 +20,7 @@ Strict version:
 yii2-app/
 ├── components/         Yii2 customized component
 ├── models/             Form
+    ├── entities/       Entity (Active Record)
     ├── forms/          Form
     ├── presenters/     Presenter
     ├── repositories/   Repository
