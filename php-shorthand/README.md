@@ -18,3 +18,5 @@ $foo = $bar ?: $baz;
 ```
 
 > `?:` is similar to PHP 7 `??`
+
+> [Comparison Operators - Ternary Operator](http://php.net/manual/en/language.operators.comparison.php#language.operators.comparison.ternary)
