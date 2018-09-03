@@ -1,6 +1,11 @@
 PHP Worker Design
 =================
 
+STRUCTURES
+----------
+
+<img src="https://raw.githubusercontent.com/yidas/php-design-patterns/master/worker/structure-types.png" />
+
 Use PHP CLI to run the worker script, there are some main points as following:
 
 1. Prevent any continuous growth of runtime memory usage.
