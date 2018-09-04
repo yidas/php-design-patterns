@@ -1,6 +1,10 @@
 PHP Worker Design
 =================
 
+This chapter introduces the worker implemnetation by using orignal PHP.
+
+> Extension way to implement Process/Thread on PHP: [PECL pthreads](http://php.net/manual/en/class.thread.php)
+
 STRUCTURES
 ----------
 
